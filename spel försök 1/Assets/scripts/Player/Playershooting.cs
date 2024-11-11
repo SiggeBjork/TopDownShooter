@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Playershooting : MonoBehaviour
 {
-    [SerializeField] float playerBulletSpeed = 10f;
+    [SerializeField] float playerBulletSpeed = 30f;
     [SerializeField] GameObject playerBullet;
     void Start()
     {
